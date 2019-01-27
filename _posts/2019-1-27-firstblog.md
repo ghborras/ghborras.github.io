@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Blog in test status
 ---
 
 Upload images in Symfony 4.2
