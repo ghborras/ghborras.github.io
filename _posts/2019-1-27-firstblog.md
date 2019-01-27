@@ -3,10 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-Probando yekyll
+Upload images in Symfony 4.2
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![naranjas]({{ site.baseurl }}/images/upload_img_symfony.png)
 
-![naranjas]({{ site.baseurl }}/images/naranja.jpg)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
