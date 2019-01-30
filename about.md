@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Welcome !  to my personal website in GitHub
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I have been in the world of web development for a short time, thanks to platforms such as github and its large community of developers, everything becomes easier. I hope in the future to be able to contribute something of interest for all.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ghborras@gmail.com](mailto:ghborras@gmail.com)
