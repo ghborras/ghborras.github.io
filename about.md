@@ -3,8 +3,12 @@ layout: page
 title: Welcome !  to my personal website in GitHub
 permalink: /about/
 ---
+I was more than 15 years in the world of building construction, now I try to open new work paths.
 
-I have been in the world of web development for a short time, thanks to platforms such as GitHub and its large community of developers, everything becomes easier. I hope in the future to be able to contribute something of interest for all.
+
+Thanks to platforms such as GitHub and its large community of developers, everything becomes easier. I hope in the future to be able to contribute something of interest for all.
+
+
 
 ### Contact me
 
