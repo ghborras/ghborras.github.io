@@ -90,6 +90,32 @@ nav a {
 	border-bottom-width: 0px;
   }
 
+  #logos {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 70px;
+	margin-bottom: 50px;
+  }
+
+  .col {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+  }
+
+  #logos img{
+	  width: 100px;
+	  height: 100px;
+	  box-shadow: 5px 5px 5px grey;
+	  margin-bottom: 10px;
+  }
+
+  #logos a {
+	  font-size: 12px;
+  }
+
+
 .posts {
 	
 	display: flex;
@@ -2654,7 +2680,7 @@ nav a {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("../../images/works/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("../../images/works/overlay.png"), url("../../images/bgcoat.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
