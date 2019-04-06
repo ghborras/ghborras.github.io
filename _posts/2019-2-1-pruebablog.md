@@ -70,10 +70,7 @@ services.yml
 
 yourview.html.twig
 
-~~~
+    set variable = myFunction() 
 
-    {% set variable = myFunction() %}
-
-~~~
 
 [close]({{ site.baseurl }}/)
