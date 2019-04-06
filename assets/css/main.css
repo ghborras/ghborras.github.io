@@ -146,9 +146,9 @@ nav a {
 	margin-bottom: 0px !important;
 }
 
-/* .entry {
-	width: 100%;
-} */
+.entry {
+	width: 90%;
+} 
 
 .entry p{
 	margin-bottom: 15px;

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Yaml file to Array!
+title: Yaml file to Array
 ---
 
 *{{ page.date | date: "%B %e, %Y" }}*
 
 
-Menu.yml
+File to convert to string
 
 ~~~
 #app/config/file.yml
